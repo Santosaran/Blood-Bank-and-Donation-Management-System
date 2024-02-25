@@ -2,7 +2,7 @@
 
 <head> 
 
-<style> g
+<style> 
 
 .header {
   overflow:hidden;
