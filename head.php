@@ -4,7 +4,7 @@
 
 <style>c
 
-.header {
+.header { 
   overflow:hidden;
   background-color: #333;
   top: 0;
